@@ -9,6 +9,7 @@ public class HelloWorld {
 
     String name1 = "Igor";
     String name2 = "Igor";
-    System.out.println(name1.equals(name2));
+    System.out.println();
+    System.out.print(name1.equals(name2));
 }
 }
